@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.artcamera.artcamera.FaceActivity"
+    android:id="@+id/rootConstraintLayout">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/face_bg"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/iv_topImageView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/face_top"
+        app:layout_constraintDimensionRatio="w,247:1080"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/iv_top_line"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="24dp"
+        android:src="@drawable/face_top_line"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_topImageView"
+        app:layout_constraintDimensionRatio="w,57:1010"
+        app:layout_constraintEnd_toEndOf="@+id/iv_topImageView"
+        app:layout_constraintStart_toStartOf="@+id/iv_topImageView" />
+    // app:layout_constraintBottom_toTopOf="@+id/btnLinear"
+    <LinearLayout
+        android:id="@+id/faceImageLinaer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/iv_top_line"
+        app:layout_constraintBottom_toTopOf="@+id/btnLinear"
+        android:layout_marginBottom="32dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:background="@drawable/face_img_bg">
+
+        <ImageView
+            android:id="@+id/iv_faceImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="8dp"
+
+            android:scaleType="fitCenter"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/btnLinear"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="32dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/face_back"
+            android:visibility="visible"/>
+
+        <ImageView
+            android:id="@+id/iv_download"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/face_download"
+            android:visibility="visible"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,193 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.artcamera.artcamera"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:6:5-65
+12-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:6:22-62
+13    <uses-permission android:name="android.permission.FLASHLIGHT" />
+13-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:7:5-69
+13-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:7:22-66
+14    <uses-permission android:name="android.permission.ACCESS_ALL_DOWNLOADS" />
+14-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:8:5-79
+14-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:9:5-81
+15-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:10:5-80
+16-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:10:22-77
+17
+18    <uses-feature android:name="android.hardware.camera" />
+18-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:12:5-60
+18-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:12:19-57
+19    <uses-feature android:name="android.hardware.camera.autofocus" />
+19-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:13:5-70
+19-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:13:19-67
+20
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+21-->[com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+21-->[com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+22
+23    <application
+23-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:15:5-54:19
+24        android:name="com.artcamera.artcamera.App"
+24-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:16:9-51
+25        android:allowBackup="true"
+25-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:17:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher_new"
+28-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:18:9-47
+29        android:label="@string/app_name"
+29-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:19:9-41
+30        android:largeHeap="true"
+30-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:20:9-33
+31        android:requestLegacyExternalStorage="true"
+31-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:21:9-52
+32        android:roundIcon="@mipmap/ic_launcher_new"
+32-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:22:9-52
+33        android:supportsRtl="true"
+33-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:23:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppThemeHide" >
+35-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:24:9-44
+36        <activity android:name="com.artcamera.artcamera.FaceCameraActivity" />
+36-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:25:9-79
+36-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:25:19-76
+37        <activity android:name="com.artcamera.artcamera.FaceActivity" />
+37-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:26:9-73
+37-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:26:19-70
+38        <activity android:name="com.artcamera.artcamera.MainActivity" >
+38-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:27:9-41:20
+38-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:27:19-70
+39            <intent-filter>
+39-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:28:13-32:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:29:17-69
+40-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:31:17-77
+42-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:31:27-74
+43            </intent-filter>
+44            <intent-filter>
+44-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:33:13-40:29
+45                <action android:name="android.intent.action.VIEW" />
+45-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:34:17-69
+45-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:34:25-66
+46
+47                <category android:name="android.intent.category.DEFAULT" />
+47-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:36:17-76
+47-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:36:27-73
+48                <category android:name="android.intent.category.BROWSABLE" />
+48-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:37:17-78
+48-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:37:27-75
+49
+50                <data android:scheme="artcamera" />
+50-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:39:17-52
+50-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:39:23-49
+51            </intent-filter>
+52        </activity>
+53
+54        <provider
+54-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:43:9-51:20
+55            android:name="androidx.core.content.FileProvider"
+55-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:44:13-62
+56            android:authorities="com.artcamera.artcamera.fileProvider"
+56-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:45:13-71
+57            android:exported="false"
+57-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:46:13-37
+58            android:grantUriPermissions="true" >
+58-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:47:13-47
+59            <meta-data
+59-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:48:13-50:62
+60                android:name="android.support.FILE_PROVIDER_PATHS"
+60-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:49:17-67
+61                android:resource="@xml/face_download_path" />
+61-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:50:17-59
+62        </provider>
+63
+64        <activity
+64-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:30:9-33:66
+65            android:name="com.facebook.FacebookActivity"
+65-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:31:13-57
+66            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+66-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:32:13-96
+67            android:theme="@style/com_facebook_activity_theme" />
+67-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:33:13-63
+68        <activity android:name="com.facebook.CustomTabMainActivity" />
+68-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:34:9-71
+68-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:34:19-68
+69        <activity
+69-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:35:9-49:20
+70            android:name="com.facebook.CustomTabActivity"
+70-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:36:13-58
+71            android:exported="true" >
+71-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:37:13-36
+72            <intent-filter>
+72-->[com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+73                <action android:name="android.intent.action.VIEW" />
+73-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:34:17-69
+73-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:34:25-66
+74
+75                <category android:name="android.intent.category.DEFAULT" />
+75-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:36:17-76
+75-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:36:27-73
+76                <category android:name="android.intent.category.BROWSABLE" />
+76-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:37:17-78
+76-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:37:27-75
+77
+78                <data
+78-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:39:17-52
+79                    android:host="cct.com.artcamera.artcamera"
+80                    android:scheme="fbconnect" />
+80-->/Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:39:23-49
+81            </intent-filter>
+82        </activity>
+83        <!--
+84         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+85         with the application context. This config is merged in with the host app's manifest,
+86         but there can only be one provider with the same authority activated at any given
+87         point; so if the end user has two or more different apps that use Facebook SDK, only the
+88         first one will be able to use the provider. To work around this problem, we use the
+89         following placeholder in the authority to identify each host application as if it was
+90         a completely different provider.
+91        -->
+92        <provider
+92-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:39:9-42:40
+93            android:name="com.facebook.internal.FacebookInitProvider"
+93-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:40:13-70
+94            android:authorities="com.artcamera.artcamera.FacebookInitProvider"
+94-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:41:13-72
+95            android:exported="false" />
+95-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:42:13-37
+96
+97        <receiver
+97-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:44:9-50:20
+98            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+98-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:45:13-86
+99            android:exported="false" >
+99-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:46:13-37
+100            <intent-filter>
+100-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:47:13-49:29
+101                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+101-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:17-95
+101-->[com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:25-92
+102            </intent-filter>
+103        </receiver>
+104    </application>
+105
+106</manifest>

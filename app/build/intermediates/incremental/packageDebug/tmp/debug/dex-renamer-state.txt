@@ -1,0 +1,4 @@
+#Tue Apr 27 12:15:52 EET 2021
+base.0=/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

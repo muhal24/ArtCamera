@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/muhal24/.gradle/caches/transforms-3/763320384a3c40beca9a69238c53689f/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/muhal24/.gradle/caches/transforms-3/56b8e10c329e3144f231ff2b9b8adffe/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [net.alhazmy13.ImageFilters:library:0.1.2-beta] /Users/muhal24/.gradle/caches/transforms-3/5116118c575369bcaf4fefe954a72f2a/transformed/jetified-library-0.1.2-beta/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-android-sdk:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/db0504bb405521924a30453559540ca3/transformed/jetified-facebook-android-sdk-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/b037ae620732a7c9b71227a0c6e43113/transformed/jetified-facebook-login-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-gamingservices:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/692fc43b3734b2e742ed498a92a674c0/transformed/jetified-facebook-gamingservices-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/44f77ad5e39952761106e25792b19e15/transformed/jetified-facebook-share-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/58bc1e261f4f9d93ef27dd2b46461d1a/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/afe30b50cdab36c691a5176a0f444411/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/179925aaca35d0e52836eeb73e422789/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /Users/muhal24/.gradle/caches/transforms-3/ff01e363af1182c1c9817874526dc76a/transformed/jetified-gpuimage-library-1.4.1/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/e4b49514c8873fc82939a5b020df3840/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/8e66a9a3a8367d50c43fef143a6890be/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/098b58c31c2d34f48050db3b38af33e8/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/43188127355071a90a35af5556cbfc70/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/6410bf5aca8fb0d9fa10299bcc33a6b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/64408324f7b4f858b1a3b3939f9f3eb3/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/e88155c2c7028cf9cd606318dd975c14/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/60f3789de847428ea7894de687d75988/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/4fafce161799400e42bbcb5f03dd928a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d0fd252f3828c3a485d3e2e800e590ad/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/059f8b8f7267dbb73ea3f0d74b682c4c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/a88a9fe496baa486ea5c59f06c4303ed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/589da8a13f1cdab1e1e9b39a8f658b35/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/653c233e5585a0040d21e05f19a3a85a/transformed/jetified-facebook-places-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/24e660b97c6a3e3b36d997588d87f5a8/transformed/jetified-facebook-applinks-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/6e844ddfcf99f43d9b7e36319b0c5c60/transformed/jetified-facebook-messenger-7.1.0/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/be24359477227b71eaa8c98bc306ca19/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d7f1a785be682fa7f5269cbd05ac4577/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/5845def2dab3246bd4a42d6002fa44c9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/b982414a07c5927820665f0f8a8c2a6b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/ab83b96909b1775761e22dcbb595560a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/bfb1885739a6388f9eb356c3ccfa35d6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/cb2431be8098ffcf6459cd3db1ce9607/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/a3fed775df76722424dfdb0ecb83e9e7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/77a8cad069b4b857379fcdb33a2afc6f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/6e1578d3c8d4d00450b4884167439c89/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/ec98764c3a8ee2618bebaf6e718367e2/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/665ce2cf06c5026cc63e05038d0b7c57/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/20cfc6622f3393e5d6d1562ba58079b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/muhal24/.gradle/caches/transforms-3/b9e363d4be61dc62c171871088656ca2/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/muhal24/.gradle/caches/transforms-3/689cc1bd638f23d3e4287ef2baeff384/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/8cb82ea3e739a7696338d5e1e03f1c65/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/3ccf6a61d1a2c6b0f96f90d5389c3cbd/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d3d183364ce1e77041b7cc6a38fab189/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/3e1c639506185a75cf8be7bf9a111477/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d4d3ff76e944f811c5a2c8130820c232/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/959a4bf9954b54d07665e5fb4dd9e6c7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/787c64c7b146897ea47a3084e37f70ea/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/21bc0324f89040b358f97b628a481f78/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/0b36fb3ae3a940dbfc4e48bd73790268/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.ACCESS_ALL_DOWNLOADS
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:10:22-77
+uses-feature#android.hardware.camera
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:13:19-67
+application
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:15:5-54:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/muhal24/.gradle/caches/transforms-3/763320384a3c40beca9a69238c53689f/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/muhal24/.gradle/caches/transforms-3/763320384a3c40beca9a69238c53689f/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/muhal24/.gradle/caches/transforms-3/56b8e10c329e3144f231ff2b9b8adffe/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/muhal24/.gradle/caches/transforms-3/56b8e10c329e3144f231ff2b9b8adffe/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [net.alhazmy13.ImageFilters:library:0.1.2-beta] /Users/muhal24/.gradle/caches/transforms-3/5116118c575369bcaf4fefe954a72f2a/transformed/jetified-library-0.1.2-beta/AndroidManifest.xml:11:5-45
+MERGED from [net.alhazmy13.ImageFilters:library:0.1.2-beta] /Users/muhal24/.gradle/caches/transforms-3/5116118c575369bcaf4fefe954a72f2a/transformed/jetified-library-0.1.2-beta/AndroidManifest.xml:11:5-45
+MERGED from [com.facebook.android:facebook-android-sdk:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/db0504bb405521924a30453559540ca3/transformed/jetified-facebook-android-sdk-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/db0504bb405521924a30453559540ca3/transformed/jetified-facebook-android-sdk-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/b037ae620732a7c9b71227a0c6e43113/transformed/jetified-facebook-login-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/b037ae620732a7c9b71227a0c6e43113/transformed/jetified-facebook-login-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/692fc43b3734b2e742ed498a92a674c0/transformed/jetified-facebook-gamingservices-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-gamingservices:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/692fc43b3734b2e742ed498a92a674c0/transformed/jetified-facebook-gamingservices-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/44f77ad5e39952761106e25792b19e15/transformed/jetified-facebook-share-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/44f77ad5e39952761106e25792b19e15/transformed/jetified-facebook-share-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:29:5-50:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/179925aaca35d0e52836eeb73e422789/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/179925aaca35d0e52836eeb73e422789/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.facebook.android:facebook-places:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/653c233e5585a0040d21e05f19a3a85a/transformed/jetified-facebook-places-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/653c233e5585a0040d21e05f19a3a85a/transformed/jetified-facebook-places-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/24e660b97c6a3e3b36d997588d87f5a8/transformed/jetified-facebook-applinks-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/24e660b97c6a3e3b36d997588d87f5a8/transformed/jetified-facebook-applinks-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/6e844ddfcf99f43d9b7e36319b0c5c60/transformed/jetified-facebook-messenger-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/6e844ddfcf99f43d9b7e36319b0c5c60/transformed/jetified-facebook-messenger-7.1.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/6e1578d3c8d4d00450b4884167439c89/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/6e1578d3c8d4d00450b4884167439c89/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/20cfc6622f3393e5d6d1562ba58079b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/20cfc6622f3393e5d6d1562ba58079b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:21:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:22:9-52
+	android:largeHeap
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:20:9-33
+	android:icon
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:18:9-47
+	android:allowBackup
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:16:9-51
+activity#com.artcamera.artcamera.FaceCameraActivity
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:25:9-79
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:25:19-76
+activity#com.artcamera.artcamera.FaceActivity
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:26:9-73
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:26:19-70
+activity#com.artcamera.artcamera.MainActivity
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:27:9-41:20
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:27:19-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:31:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:artcamera
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:33:13-40:29
+action#android.intent.action.VIEW
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:37:27-75
+data
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:39:17-52
+	android:scheme
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:39:23-49
+provider#androidx.core.content.FileProvider
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:43:9-51:20
+	android:grantUriPermissions
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:47:13-47
+	android:authorities
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:45:13-71
+	android:exported
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:44:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:48:13-50:62
+	android:resource
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:50:17-59
+	android:name
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml:49:17-67
+uses-sdk
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/muhal24/.gradle/caches/transforms-3/763320384a3c40beca9a69238c53689f/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/muhal24/.gradle/caches/transforms-3/763320384a3c40beca9a69238c53689f/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/muhal24/.gradle/caches/transforms-3/56b8e10c329e3144f231ff2b9b8adffe/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/muhal24/.gradle/caches/transforms-3/56b8e10c329e3144f231ff2b9b8adffe/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [net.alhazmy13.ImageFilters:library:0.1.2-beta] /Users/muhal24/.gradle/caches/transforms-3/5116118c575369bcaf4fefe954a72f2a/transformed/jetified-library-0.1.2-beta/AndroidManifest.xml:7:5-9:41
+MERGED from [net.alhazmy13.ImageFilters:library:0.1.2-beta] /Users/muhal24/.gradle/caches/transforms-3/5116118c575369bcaf4fefe954a72f2a/transformed/jetified-library-0.1.2-beta/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/db0504bb405521924a30453559540ca3/transformed/jetified-facebook-android-sdk-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/db0504bb405521924a30453559540ca3/transformed/jetified-facebook-android-sdk-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/b037ae620732a7c9b71227a0c6e43113/transformed/jetified-facebook-login-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/b037ae620732a7c9b71227a0c6e43113/transformed/jetified-facebook-login-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/692fc43b3734b2e742ed498a92a674c0/transformed/jetified-facebook-gamingservices-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-gamingservices:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/692fc43b3734b2e742ed498a92a674c0/transformed/jetified-facebook-gamingservices-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/44f77ad5e39952761106e25792b19e15/transformed/jetified-facebook-share-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/44f77ad5e39952761106e25792b19e15/transformed/jetified-facebook-share-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/58bc1e261f4f9d93ef27dd2b46461d1a/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/58bc1e261f4f9d93ef27dd2b46461d1a/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/afe30b50cdab36c691a5176a0f444411/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/afe30b50cdab36c691a5176a0f444411/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/179925aaca35d0e52836eeb73e422789/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/179925aaca35d0e52836eeb73e422789/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /Users/muhal24/.gradle/caches/transforms-3/ff01e363af1182c1c9817874526dc76a/transformed/jetified-gpuimage-library-1.4.1/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] /Users/muhal24/.gradle/caches/transforms-3/ff01e363af1182c1c9817874526dc76a/transformed/jetified-gpuimage-library-1.4.1/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/e4b49514c8873fc82939a5b020df3840/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/e4b49514c8873fc82939a5b020df3840/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/8e66a9a3a8367d50c43fef143a6890be/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/8e66a9a3a8367d50c43fef143a6890be/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/098b58c31c2d34f48050db3b38af33e8/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/098b58c31c2d34f48050db3b38af33e8/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/43188127355071a90a35af5556cbfc70/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/43188127355071a90a35af5556cbfc70/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/6410bf5aca8fb0d9fa10299bcc33a6b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/6410bf5aca8fb0d9fa10299bcc33a6b9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/64408324f7b4f858b1a3b3939f9f3eb3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/64408324f7b4f858b1a3b3939f9f3eb3/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/e88155c2c7028cf9cd606318dd975c14/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/e88155c2c7028cf9cd606318dd975c14/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/60f3789de847428ea7894de687d75988/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/60f3789de847428ea7894de687d75988/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/4fafce161799400e42bbcb5f03dd928a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/4fafce161799400e42bbcb5f03dd928a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d0fd252f3828c3a485d3e2e800e590ad/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d0fd252f3828c3a485d3e2e800e590ad/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/059f8b8f7267dbb73ea3f0d74b682c4c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/059f8b8f7267dbb73ea3f0d74b682c4c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/a88a9fe496baa486ea5c59f06c4303ed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/a88a9fe496baa486ea5c59f06c4303ed/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/589da8a13f1cdab1e1e9b39a8f658b35/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/589da8a13f1cdab1e1e9b39a8f658b35/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/653c233e5585a0040d21e05f19a3a85a/transformed/jetified-facebook-places-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/653c233e5585a0040d21e05f19a3a85a/transformed/jetified-facebook-places-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/24e660b97c6a3e3b36d997588d87f5a8/transformed/jetified-facebook-applinks-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/24e660b97c6a3e3b36d997588d87f5a8/transformed/jetified-facebook-applinks-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/6e844ddfcf99f43d9b7e36319b0c5c60/transformed/jetified-facebook-messenger-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/6e844ddfcf99f43d9b7e36319b0c5c60/transformed/jetified-facebook-messenger-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/be24359477227b71eaa8c98bc306ca19/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/be24359477227b71eaa8c98bc306ca19/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d7f1a785be682fa7f5269cbd05ac4577/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d7f1a785be682fa7f5269cbd05ac4577/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/5845def2dab3246bd4a42d6002fa44c9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/5845def2dab3246bd4a42d6002fa44c9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/b982414a07c5927820665f0f8a8c2a6b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/b982414a07c5927820665f0f8a8c2a6b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/ab83b96909b1775761e22dcbb595560a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/ab83b96909b1775761e22dcbb595560a/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/bfb1885739a6388f9eb356c3ccfa35d6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/bfb1885739a6388f9eb356c3ccfa35d6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/cb2431be8098ffcf6459cd3db1ce9607/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/cb2431be8098ffcf6459cd3db1ce9607/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/a3fed775df76722424dfdb0ecb83e9e7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/a3fed775df76722424dfdb0ecb83e9e7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/77a8cad069b4b857379fcdb33a2afc6f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/77a8cad069b4b857379fcdb33a2afc6f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/muhal24/.gradle/caches/transforms-3/ee9d0ff5dd661bd3371e4298cf4df9ca/transformed/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/6e1578d3c8d4d00450b4884167439c89/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/muhal24/.gradle/caches/transforms-3/6e1578d3c8d4d00450b4884167439c89/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/ec98764c3a8ee2618bebaf6e718367e2/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/muhal24/.gradle/caches/transforms-3/ec98764c3a8ee2618bebaf6e718367e2/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/665ce2cf06c5026cc63e05038d0b7c57/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/665ce2cf06c5026cc63e05038d0b7c57/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/20cfc6622f3393e5d6d1562ba58079b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/muhal24/.gradle/caches/transforms-3/20cfc6622f3393e5d6d1562ba58079b3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/muhal24/.gradle/caches/transforms-3/b9e363d4be61dc62c171871088656ca2/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/muhal24/.gradle/caches/transforms-3/b9e363d4be61dc62c171871088656ca2/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/muhal24/.gradle/caches/transforms-3/689cc1bd638f23d3e4287ef2baeff384/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/muhal24/.gradle/caches/transforms-3/689cc1bd638f23d3e4287ef2baeff384/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/8cb82ea3e739a7696338d5e1e03f1c65/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/8cb82ea3e739a7696338d5e1e03f1c65/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/3ccf6a61d1a2c6b0f96f90d5389c3cbd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/3ccf6a61d1a2c6b0f96f90d5389c3cbd/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d3d183364ce1e77041b7cc6a38fab189/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d3d183364ce1e77041b7cc6a38fab189/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/3e1c639506185a75cf8be7bf9a111477/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/3e1c639506185a75cf8be7bf9a111477/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d4d3ff76e944f811c5a2c8130820c232/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/d4d3ff76e944f811c5a2c8130820c232/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/959a4bf9954b54d07665e5fb4dd9e6c7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/959a4bf9954b54d07665e5fb4dd9e6c7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/787c64c7b146897ea47a3084e37f70ea/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/787c64c7b146897ea47a3084e37f70ea/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/21bc0324f89040b358f97b628a481f78/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/muhal24/.gradle/caches/transforms-3/21bc0324f89040b358f97b628a481f78/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/0b36fb3ae3a940dbfc4e48bd73790268/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/muhal24/.gradle/caches/transforms-3/0b36fb3ae3a940dbfc4e48bd73790268/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		ADDED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/muhal24/Desktop/ArtCamera/app/src/main/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.artcamera.artcamera+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/3a4446080175e18143d5aa169b58b9ac/transformed/jetified-facebook-common-7.1.0/AndroidManifest.xml:39:13-48:29
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] /Users/muhal24/.gradle/caches/transforms-3/0e0fd341652af51e9d4738ddfe84417d/transformed/jetified-facebook-core-7.1.0/AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/muhal24/.gradle/caches/transforms-3/7acd0172c7dddd1b118937a18f2c839e/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107

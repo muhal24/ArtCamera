@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_new.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_home_finger.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/home_finger.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_top_line.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_top_line.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_bg.jpg.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_bg.jpg"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_download.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_download.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_new.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxhdpi/ic_launcher_new.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/layout_activity_face.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/layout/activity_face.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/xml_face_download_path.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/xml/face_download_path.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/layout_face_sheet_dialog.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/layout/face_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_home_bg.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/home_bg.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_afresh_photo.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/afresh_photo.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_back.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_back.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_layer.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_layer.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_home_title.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/home_title.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_home_start.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/home_start.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_loading.gif.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_loading.gif"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_login.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/login.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_switch_camera.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/switch_camera.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/layout_activity_face_camera2.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/layout/activity_face_camera2.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_img_bg.jpg.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_img_bg.jpg"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/layout_activity_face_camera.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/layout/activity_face_camera.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/layout_face_loading.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/layout/face_loading.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_face_top.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/face_top.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_new.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-hdpi/ic_launcher_new.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_new.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xhdpi/ic_launcher_new.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_confirm_photo.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/confirm_photo.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_new.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-mdpi/ic_launcher_new.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/drawable_take_photo.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/drawable/take_photo.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muhal24/Desktop/ArtCamera/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/muhal24/Desktop/ArtCamera/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">artcamera</string>
+    <string name="camera">turn on camera</string>
+    <string name="album">select from album</string>
+
+</resources>
